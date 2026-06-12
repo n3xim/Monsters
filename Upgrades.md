@@ -1,3 +1,4 @@
+# Upgrades
 ##### There is a total of 23 upgrades available in the pool (22 in solo)
 
 |            Name            |                Box                 | Base Cost |    Amount    |                                             Description                                             |
