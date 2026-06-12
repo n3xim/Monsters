@@ -1,4 +1,4 @@
-# Upgrades
+# Weapons
 ##### Melee weapons can be pulled away and towards from the player based on the grabbers range
 
 |       Name        |           Apperance            |   Cost    |                  Damage                   |                                                                                   Description                                                                                   |
